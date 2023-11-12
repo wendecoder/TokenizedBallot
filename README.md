@@ -23,8 +23,13 @@ Certainly! Here's the instruction section in a README format:
    ```bash
    npm install
    ```
+   
+3. **Compile Smart Contracts**
+   ```bash
+   npx hardhat compile
+   ```
 
-3. **Set Up Environment Variables:**
+4. **Set Up Environment Variables:**
    Create a `.env` file in the project root with the following variables:
    ```env
    PRIVATE_KEY=your_private_key
@@ -34,7 +39,7 @@ Certainly! Here's the instruction section in a README format:
    TOKENIZED_BALLOT_CONTRACT_ADDRESS=your_tokenized_ballot_contract_address
    ```
 
-4. **Run the Scripts:**
+5. **Run the Scripts:**
 
    - **Deploy MyToken contract:**
      ```bash
