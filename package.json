@@ -1,0 +1,19 @@
+{
+  "name": "week3-weekend-porject-tokenizedballot",
+  "version": "1.0.0",
+  "description": "This document forms part of the week 3 weekend project for the Solidity Bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.0"
+  }
+}
