@@ -77,4 +77,4 @@ Certainly! Here's the instruction section in a README format:
      ```bash
      npx ts-node scripts/queryResult.ts
      ```
-## **Happy Voting**
+**Happy Voting**
