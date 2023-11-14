@@ -10,7 +10,8 @@ The `TokenizedBallot` smart contract facilitates tokenized voting using the ERC-
 - **OpenZeppelin Contracts**: Integrated for utilizing standardized and secure smart contract components, including ERC-20 and access control. [Link to OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)
   
 
-### Instructions
+
+## Instructions
 
 1. **Clone the Repository:**
    ```bash
