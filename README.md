@@ -8,8 +8,7 @@ The `TokenizedBallot` smart contract facilitates tokenized voting using the ERC-
 - **Hardhat**: Employed as the development environment for compiling, testing, and deploying smart contracts. [Link to Hardhat](https://hardhat.org/)
 
 - **OpenZeppelin Contracts**: Integrated for utilizing standardized and secure smart contract components, including ERC-20 and access control. [Link to OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)
-
-Certainly! Here's the instruction section in a README format:
+  
 
 ### Instructions
 
